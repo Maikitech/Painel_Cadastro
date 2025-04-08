@@ -1,0 +1,11 @@
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\bin\Debug\net8.0\Maiki.Addons.deps.json
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\bin\Debug\net8.0\Maiki.Addons.dll
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\bin\Debug\net8.0\Maiki.Addons.pdb
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\obj\Debug\net8.0\Maiki.Addons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\obj\Debug\net8.0\Maiki.Addons.AssemblyInfoInputs.cache
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\obj\Debug\net8.0\Maiki.Addons.AssemblyInfo.cs
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\obj\Debug\net8.0\Maiki.Addons.csproj.CoreCompileInputs.cache
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\obj\Debug\net8.0\Maiki.Addons.dll
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\obj\Debug\net8.0\refint\Maiki.Addons.dll
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\obj\Debug\net8.0\Maiki.Addons.pdb
+C:\Users\ma1516\source\repos\Maiki.Addons\Maiki.Addons\obj\Debug\net8.0\ref\Maiki.Addons.dll
